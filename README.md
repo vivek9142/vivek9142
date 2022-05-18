@@ -4,7 +4,7 @@
 
 ## I'm a Front-End Developer / aspiring Full-Stack Web Development. 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design and create UI Designs in React
